@@ -1,0 +1,2 @@
+#comprobador
+cliente="juan"
